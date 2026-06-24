@@ -3,7 +3,7 @@
 Fine-tuning DistilBERT to classify the quality of discourse in the r/VALORANT subreddit into three labels: `Tactical_Analysis`, `Salt_Vent`, and `Improvement_Seeking`. See [planning.md](planning.md) for the label taxonomy, decision rules, and data-collection plan.
 
 ## Demo Video
-[Link to my demo video] https://github.com/rberglund3/ai201-project3/tree/main
+[Link to my demo video] https://www.loom.com/share/52bef9aa85724c189840562b87153154
 
 ---
 
